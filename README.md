@@ -1,2 +1,2 @@
 # LED-Strip-Color
-Using an Arduino to change the color of a LED strip
+Using an Arduino to change the light color of a LED strip
